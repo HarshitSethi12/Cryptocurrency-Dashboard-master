@@ -1,6 +1,5 @@
 # Cryptocurrency Dashboard
-Cryptocurrency Dashboard
-is a web application that displays the up to date cryptocurrency data provided by CoinGecko api.
+Cryptocurrency Dashboard is a web application that displays the up to date cryptocurrency data provided by CoinGecko api.
 It also shows past price trends for cryptocurrencies in various time periods.
 It is built using different libraries ReactJS, Redux Toolkit, Chart.js, Styled Components
 
@@ -16,7 +15,7 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.
-You may also see any lint errors in the console
+You may also see any errors in the console
 
 ## Run Tests:
 ```bash
@@ -37,5 +36,4 @@ Github: [@HarshitSethi12](https://github.com/HarshitSethi12)
 
 ## Contributing:
 
-Pull requests are welcome. Please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
+I am open to, If someone wants to make changes in the project and improve it. Anyone can contribute to the project and improve the dashboard.
